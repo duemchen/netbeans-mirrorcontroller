@@ -1,0 +1,1734 @@
+2017-04-21 08:23:16,608 INFO  [ReglerLogger] ReglerStart.START
+2017-04-21 08:23:16,701 INFO  [ReglerLogger] info    waiting for Compass
+2017-04-21 08:23:16,717 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:23:17,341 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":800,"main":"Clear","description":"klarer Himmel","icon":"01d"}],"base":"stations","main":{"temp":6,"pressure":1026,"humidity":60,"temp_min":6,"temp_max":6},"visibility":10000,"wind":{"speed":5.7,"deg":250},"clouds":{"all":0},"dt":1492753800,"sys":{"type":1,"id":4892,"message":0.0041,"country":"DE","sunrise":1492746927,"sunset":1492798791},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 08:23:17,341 INFO  [ReglerLogger] wind: 5.7
+2017-04-21 08:24:05,521 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:24:05,521 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:24:53,447 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:24:53,447 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:25:40,363 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:25:40,363 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:26:28,323 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:26:28,323 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:27:16,249 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:27:16,249 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:28:04,443 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:28:04,444 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:28:52,374 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:28:52,375 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:29:40,337 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:29:40,337 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:30:28,334 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:30:28,334 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:31:16,399 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:31:16,399 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:32:04,412 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:32:04,413 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:32:52,379 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:32:52,379 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:33:40,374 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:33:40,375 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:34:28,364 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:34:28,364 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:35:16,374 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:35:16,374 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:36:04,656 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:36:04,740 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:36:52,759 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:36:52,760 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:37:40,758 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:37:40,759 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:38:28,785 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:38:28,786 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:39:16,803 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:39:16,803 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:40:04,846 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:40:04,846 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:40:52,864 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:40:52,865 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:41:40,907 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:41:40,908 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:42:28,910 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:42:28,910 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:43:16,933 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:43:16,934 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:44:04,938 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:44:04,938 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:44:52,959 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:44:52,960 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:45:40,953 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:45:40,953 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:46:28,980 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:46:28,981 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:47:16,980 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:47:16,981 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:48:05,091 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:48:05,091 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:48:53,161 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:48:53,161 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:49:41,202 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:49:41,203 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:50:29,218 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:50:29,219 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:51:17,245 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:51:17,246 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:52:05,276 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:52:05,277 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:52:53,307 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:52:53,307 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:53:41,317 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:53:41,318 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:54:29,357 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:54:29,358 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:55:17,368 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:55:17,369 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:56:05,407 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:56:05,408 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:56:53,408 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:56:53,409 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:57:41,441 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:57:41,441 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:58:29,440 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:58:29,441 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 08:59:17,471 INFO  [ReglerLogger] info    registriert.
+2017-04-21 08:59:17,471 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:00:00,789 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":7,"pressure":1026,"humidity":83,"temp_min":7,"temp_max":7},"visibility":10000,"wind":{"speed":6.2,"deg":250},"clouds":{"all":75},"dt":1492755600,"sys":{"type":1,"id":4892,"message":0.048,"country":"DE","sunrise":1492746923,"sunset":1492798794},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 09:00:00,790 INFO  [ReglerLogger] wind: 6.2
+2017-04-21 09:00:05,476 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:00:05,477 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:00:53,546 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:00:53,547 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:01:41,547 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:01:41,547 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:02:29,575 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:02:29,575 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:03:17,573 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:03:17,573 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:04:05,599 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:04:05,600 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:04:53,604 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:04:53,605 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:05:41,649 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:05:41,650 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:06:29,663 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:06:29,663 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:07:17,695 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:07:17,695 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:08:05,689 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:08:05,690 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:08:53,729 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:08:53,729 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:09:41,732 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:09:41,733 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:10:29,785 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:10:29,786 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:11:17,794 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:11:17,795 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:12:05,818 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:12:05,822 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:12:53,996 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:12:53,996 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:13:42,071 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:13:42,072 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:14:30,081 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:14:30,082 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:15:18,107 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:15:18,108 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:16:06,124 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:16:06,124 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:16:54,147 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:16:54,147 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:17:42,253 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:17:42,253 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:18:30,374 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:18:30,374 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:19:18,416 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:19:18,416 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:20:06,446 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:20:06,447 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:20:54,465 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:20:54,466 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:21:42,490 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:21:42,491 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:22:30,485 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:22:30,485 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:23:18,527 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:23:18,528 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:24:06,532 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:24:06,533 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:24:54,625 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:24:54,626 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:25:42,627 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:25:42,628 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:26:30,670 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:26:30,670 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:27:18,679 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:27:18,680 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:28:06,714 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:28:06,715 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:28:54,710 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:28:54,710 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:29:42,742 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:29:42,742 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:30:30,754 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:30:30,755 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:31:18,797 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:31:18,798 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:32:06,790 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:32:06,790 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:32:54,823 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:32:54,824 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:33:42,820 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:33:42,820 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:34:30,843 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:34:30,843 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:35:18,853 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:35:18,853 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:36:06,889 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:36:06,889 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:36:54,888 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:36:54,889 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:37:42,937 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:37:42,937 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:38:30,935 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:38:30,936 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:39:18,985 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:39:18,985 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:40:07,038 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:40:07,038 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:40:55,065 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:40:55,066 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:41:43,070 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:41:43,070 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:42:31,113 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:42:31,113 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:43:19,114 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:43:19,114 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:44:07,138 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:44:07,138 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:44:55,144 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:44:55,144 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:45:43,166 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:45:43,166 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:46:31,177 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:46:31,178 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:47:19,217 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:47:19,217 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:48:07,220 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:48:07,221 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:48:55,244 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:48:55,245 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:49:43,237 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:49:43,238 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:50:31,270 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:50:31,271 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:51:19,282 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:51:19,282 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:52:07,310 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:52:07,310 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:52:55,315 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:52:55,319 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:53:43,349 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:53:43,349 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:54:31,344 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:54:31,344 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:55:19,393 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:55:19,393 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:56:07,390 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:56:07,390 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:56:55,416 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:56:55,416 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:57:43,412 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:57:43,412 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:58:31,438 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:58:31,439 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 09:59:19,440 INFO  [ReglerLogger] info    registriert.
+2017-04-21 09:59:19,441 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:00:07,475 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:00:07,475 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:00:09,748 ERROR [ReglerLogger] while (!stopped):  java.io.IOException: Server returned HTTP response code: 503 for URL: http://api.openweathermap.org/data/2.5/weather?lat=53.09&lon=12.89&appid=aaa67fe700a77d94eb3d115299f40e93&lang=de&units=Metric
+2017-04-21 10:00:55,477 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:00:55,477 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:01:43,506 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:01:43,507 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:02:31,519 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:02:31,519 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:03:19,563 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:03:19,564 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:04:07,571 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:04:07,572 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:04:55,618 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:04:55,618 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:05:43,614 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:05:43,614 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:06:31,642 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:06:31,643 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:07:19,645 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:07:19,645 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:08:07,679 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:08:07,680 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:08:55,686 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:08:55,687 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:09:43,718 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:09:43,718 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:10:31,724 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:10:31,724 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:11:19,762 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:11:19,763 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:12:07,770 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:12:07,771 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:12:55,801 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:12:55,801 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:13:43,808 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:13:43,809 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:14:31,834 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:14:31,835 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:15:19,839 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:15:19,840 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:16:07,879 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:16:07,879 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:16:55,882 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:16:55,883 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:17:43,916 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:17:43,917 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:18:31,919 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:18:31,920 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:19:19,954 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:19:19,954 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:20:07,963 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:20:07,964 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:20:55,990 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:20:55,990 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:21:43,986 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:21:43,987 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:22:32,025 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:22:32,025 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:23:20,022 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:23:20,023 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:24:08,054 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:24:08,054 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:24:56,061 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:24:56,061 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:25:44,084 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:25:44,085 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:26:32,086 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:26:32,087 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:27:20,112 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:27:20,113 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:28:08,114 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:28:08,114 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:28:56,154 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:28:56,154 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:29:44,156 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:29:44,156 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:30:32,224 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:30:32,224 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:31:20,241 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:31:20,241 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:32:08,270 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:32:08,271 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:32:56,268 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:32:56,268 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:33:44,292 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:33:44,293 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:34:32,297 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:34:32,297 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:35:20,326 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:35:20,327 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:36:08,322 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:36:08,322 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:36:56,370 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:36:56,370 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:37:44,370 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:37:44,370 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:38:32,407 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:38:32,408 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:39:20,434 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:39:20,434 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:40:08,568 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:40:08,568 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:40:56,558 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:40:56,558 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:41:44,584 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:41:44,585 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:42:32,580 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:42:32,580 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:43:20,617 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:43:20,617 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:44:08,617 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:44:08,617 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:44:56,659 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:44:56,660 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:45:44,658 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:45:44,658 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:46:32,690 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:46:32,691 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:47:20,684 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:47:20,685 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:48:08,728 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:48:08,729 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:48:56,724 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:48:56,725 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:49:44,755 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:49:44,755 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:50:32,776 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:50:32,777 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:51:20,816 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:51:20,817 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:52:08,825 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:52:08,825 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:52:56,853 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:52:56,853 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:53:44,854 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:53:44,854 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:54:32,893 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:54:32,894 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:55:20,888 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:55:20,888 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:56:08,938 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:56:08,938 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:56:56,941 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:56:56,942 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:57:44,968 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:57:44,969 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:58:32,970 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:58:32,970 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 10:59:20,993 INFO  [ReglerLogger] info    registriert.
+2017-04-21 10:59:20,993 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:00:00,241 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":9,"pressure":1025,"humidity":66,"temp_min":9,"temp_max":9},"visibility":10000,"wind":{"speed":6.2,"deg":260},"clouds":{"all":75},"dt":1492762800,"sys":{"type":1,"id":4892,"message":0.0882,"country":"DE","sunrise":1492746913,"sunset":1492798802},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 11:00:00,243 INFO  [ReglerLogger] wind: 6.2
+2017-04-21 11:00:09,002 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:00:09,002 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:00:57,048 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:00:57,048 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:01:45,043 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:01:45,043 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:02:33,080 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:02:33,080 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:03:21,085 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:03:21,085 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:04:09,106 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:04:09,107 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:04:57,111 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:04:57,111 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:05:45,133 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:05:45,133 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:06:33,130 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:06:33,130 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:07:21,169 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:07:21,169 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:08:09,185 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:08:09,185 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:08:57,213 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:08:57,214 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:09:45,210 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:09:45,210 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:10:33,261 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:10:33,261 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:11:21,263 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:11:21,264 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:12:09,290 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:12:09,290 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:12:57,298 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:12:57,298 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:13:45,341 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:13:45,342 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:14:33,346 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:14:33,347 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:15:21,377 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:15:21,378 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:16:09,373 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:16:09,373 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:16:57,419 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:16:57,420 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:17:45,414 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:17:45,414 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:18:33,440 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:18:33,441 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:19:21,440 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:19:21,441 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:20:09,477 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:20:09,477 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:20:57,489 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:20:57,490 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:21:45,511 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:21:45,512 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:22:33,507 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:22:33,508 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:23:21,537 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:23:21,537 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:24:09,660 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:24:09,660 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:24:57,942 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:24:57,942 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:25:46,183 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:25:46,184 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:26:34,466 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:26:34,467 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:27:22,722 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:27:22,723 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:28:11,006 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:28:11,007 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:28:59,218 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:28:59,218 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:29:47,338 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:29:47,338 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:30:35,434 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:30:35,434 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:31:23,568 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:31:23,568 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:32:11,672 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:32:11,673 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:32:59,804 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:32:59,805 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:33:47,907 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:33:47,908 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:34:35,969 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:34:35,969 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:35:24,022 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:35:24,022 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:36:12,086 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:36:12,086 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:37:00,133 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:37:00,134 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:37:48,217 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:37:48,218 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:38:36,257 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:38:36,258 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:39:24,308 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:39:24,309 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:40:12,331 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:40:12,331 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:41:00,395 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:41:00,396 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:41:48,414 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:41:48,415 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:42:36,557 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:42:36,557 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:43:24,579 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:43:24,579 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:44:12,628 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:44:12,628 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:45:00,674 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:45:00,675 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:45:48,725 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:45:48,725 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:46:36,749 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:46:36,750 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:47:24,785 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:47:24,785 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:48:12,806 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:48:12,807 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:49:00,839 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:49:00,839 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:49:48,855 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:49:48,855 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:50:36,900 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:50:36,900 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:51:24,918 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:51:24,919 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:52:12,969 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:52:12,970 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:53:01,004 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:53:01,004 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:53:49,048 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:53:49,049 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:54:37,065 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:54:37,065 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:55:25,103 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:55:25,103 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:56:13,104 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:56:13,104 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:57:01,144 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:57:01,144 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:57:49,172 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:57:49,172 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:58:37,208 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:58:37,209 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 11:59:25,224 INFO  [ReglerLogger] info    registriert.
+2017-04-21 11:59:25,224 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:00:00,677 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":10,"pressure":1025,"humidity":66,"temp_min":10,"temp_max":10},"visibility":10000,"wind":{"speed":7.2,"deg":260},"clouds":{"all":75},"dt":1492766400,"sys":{"type":1,"id":4892,"message":0.0859,"country":"DE","sunrise":1492746907,"sunset":1492798807},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 12:00:00,682 INFO  [ReglerLogger] wind: 7.2
+2017-04-21 12:00:13,284 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:00:13,284 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:01:01,292 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:01:01,292 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:01:49,340 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:01:49,341 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:02:37,347 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:02:37,347 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:03:25,418 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:03:25,418 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:04:13,427 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:04:13,427 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:05:01,474 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:05:01,474 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:05:49,492 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:05:49,492 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:06:37,548 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:06:37,548 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:07:25,558 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:07:25,558 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:08:13,600 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:08:13,600 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:09:01,639 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:09:01,639 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:09:49,665 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:09:49,665 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:10:37,734 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:10:37,735 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:11:25,762 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:11:25,762 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:12:13,782 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:12:13,783 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:13:01,828 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:13:01,828 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:13:49,891 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:13:49,892 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:14:37,931 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:14:37,931 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:15:25,936 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:15:25,937 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:16:13,967 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:16:13,967 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:17:01,972 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:17:01,972 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:17:50,019 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:17:50,019 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:18:38,037 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:18:38,037 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:19:26,177 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:19:26,178 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:20:14,194 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:20:14,195 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:21:02,231 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:21:02,232 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:21:50,246 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:21:50,247 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:22:38,290 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:22:38,291 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:23:26,311 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:23:26,311 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:24:14,351 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:24:14,351 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:25:02,374 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:25:02,375 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:25:50,414 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:25:50,414 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:26:38,418 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:26:38,418 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:27:26,452 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:27:26,452 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:28:14,470 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:28:14,471 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:29:02,525 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:29:02,525 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:29:50,534 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:29:50,534 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:30:38,572 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:30:38,572 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:31:26,578 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:31:26,578 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:32:14,615 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:32:14,616 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:33:02,620 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:33:02,621 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:33:50,664 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:33:50,664 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:34:38,684 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:34:38,684 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:35:26,728 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:35:26,728 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:36:14,747 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:36:14,748 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:37:02,803 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:37:02,803 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:37:50,817 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:37:50,817 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:38:38,867 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:38:38,868 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:39:26,879 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:39:26,879 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:40:14,917 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:40:14,917 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:41:02,924 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:41:02,924 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:41:50,974 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:41:50,974 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:42:38,990 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:42:38,990 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:43:27,029 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:43:27,029 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:44:15,051 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:44:15,052 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:45:03,099 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:45:03,099 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:45:51,109 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:45:51,109 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:46:39,146 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:46:39,146 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:47:27,170 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:47:27,170 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:48:15,213 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:48:15,213 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:49:03,242 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:49:03,242 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:49:51,294 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:49:51,294 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:50:39,303 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:50:39,303 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:51:27,342 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:51:27,343 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:52:15,350 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:52:15,350 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:53:03,398 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:53:03,398 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:53:51,404 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:53:51,404 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:54:39,443 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:54:39,444 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:55:27,452 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:55:27,452 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:56:15,490 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:56:15,490 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:57:03,507 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:57:03,508 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:57:51,553 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:57:51,553 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:58:39,567 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:58:39,567 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 12:59:27,605 INFO  [ReglerLogger] info    registriert.
+2017-04-21 12:59:27,606 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:00:01,126 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":11,"pressure":1024,"humidity":66,"temp_min":11,"temp_max":11},"visibility":10000,"wind":{"speed":8.7,"deg":260},"clouds":{"all":75},"dt":1492770000,"sys":{"type":1,"id":4892,"message":0.0122,"country":"DE","sunrise":1492746902,"sunset":1492798811},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 13:00:01,127 INFO  [ReglerLogger] wind: 8.7
+2017-04-21 13:00:15,612 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:00:15,612 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:01:03,659 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:01:03,659 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:01:51,669 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:01:51,669 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:02:39,745 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:02:39,745 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:03:27,756 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:03:27,756 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:04:15,810 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:04:15,810 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:05:03,817 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:05:03,818 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:05:51,856 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:05:51,856 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:06:39,871 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:06:39,871 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:07:27,918 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:07:27,918 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:08:15,927 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:08:15,927 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:09:03,978 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:09:03,979 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:09:51,987 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:09:51,987 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:10:40,036 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:10:40,036 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:11:28,060 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:11:28,060 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:12:16,105 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:12:16,105 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:13:04,125 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:13:04,125 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:13:52,177 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:13:52,177 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:14:40,181 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:14:40,182 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:15:28,224 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:15:28,225 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:16:16,234 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:16:16,235 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:17:04,280 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:17:04,280 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:17:52,298 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:17:52,298 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:18:40,351 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:18:40,351 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:19:28,360 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:19:28,360 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:20:16,417 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:20:16,418 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:21:04,433 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:21:04,433 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:21:52,496 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:21:52,496 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:22:40,512 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:22:40,512 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:23:28,567 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:23:28,567 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:24:16,528 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:24:16,528 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:25:04,520 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:25:04,521 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:25:52,498 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:25:52,498 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:26:40,490 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:26:40,491 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:27:28,463 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:27:28,464 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:28:16,470 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:28:16,470 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:29:04,450 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:29:04,451 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:29:52,468 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:29:52,468 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:30:40,484 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:30:40,485 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:31:28,519 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:31:28,519 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:32:16,509 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:32:16,509 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:33:04,538 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:33:04,538 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:33:52,530 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:33:52,530 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:34:40,575 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:34:40,575 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:35:28,585 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:35:28,585 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:36:16,628 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:36:16,628 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:37:04,644 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:37:04,644 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:37:52,693 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:37:52,693 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:38:40,702 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:38:40,702 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:39:28,732 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:39:28,732 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:40:16,747 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:40:16,747 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:41:04,794 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:41:04,794 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:41:52,807 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:41:52,807 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:42:40,843 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:42:40,843 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:43:28,849 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:43:28,850 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:44:16,890 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:44:16,891 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:45:04,896 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:45:04,896 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:45:52,932 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:45:52,933 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:46:40,967 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:46:40,967 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:47:29,009 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:47:29,009 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:48:17,033 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:48:17,034 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:49:05,080 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:49:05,080 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:49:53,101 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:49:53,102 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:50:41,168 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:50:41,168 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:51:29,174 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:51:29,174 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:52:17,228 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:52:17,229 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:53:05,242 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:53:05,243 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:53:53,277 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:53:53,277 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:54:41,279 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:54:41,279 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:55:29,332 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:55:29,333 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:56:17,340 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:56:17,340 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:57:05,384 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:57:05,385 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:57:53,394 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:57:53,395 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:58:41,437 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:58:41,438 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 13:59:29,450 INFO  [ReglerLogger] info    registriert.
+2017-04-21 13:59:29,450 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:00:01,027 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":13,"pressure":1024,"humidity":62,"temp_min":13,"temp_max":13},"visibility":10000,"wind":{"speed":7.7,"deg":270},"clouds":{"all":75},"dt":1492773600,"sys":{"type":1,"id":4892,"message":0.0168,"country":"DE","sunrise":1492746896,"sunset":1492798816},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 14:00:01,028 INFO  [ReglerLogger] wind: 7.7
+2017-04-21 14:00:17,488 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:00:17,489 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:01:05,500 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:01:05,501 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:01:53,549 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:01:53,549 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:02:41,562 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:02:41,563 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:03:29,599 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:03:29,600 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:04:17,617 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:04:17,617 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:05:05,655 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:05:05,655 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:05:53,657 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:05:53,657 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:06:41,695 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:06:41,695 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:07:29,719 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:07:29,719 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:08:17,767 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:08:17,768 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:09:05,778 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:09:05,779 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:09:53,844 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:09:53,844 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:10:41,870 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:10:41,870 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:11:29,911 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:11:29,911 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:12:17,921 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:12:17,921 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:13:05,972 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:13:05,973 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:13:53,986 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:13:53,986 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:14:42,024 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:14:42,025 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:15:30,025 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:15:30,026 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:16:18,084 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:16:18,085 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:17:06,100 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:17:06,101 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:17:54,153 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:17:54,154 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:18:42,166 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:18:42,167 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:19:30,225 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:19:30,225 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:20:18,228 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:20:18,229 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:21:06,279 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:21:06,280 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:21:54,303 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:21:54,303 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:22:42,346 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:22:42,347 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:23:30,356 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:23:30,356 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:24:18,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:24:18,388 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:25:06,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:25:06,387 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:25:54,410 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:25:54,411 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:26:42,402 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:26:42,403 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:27:30,426 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:27:30,426 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:28:18,414 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:28:18,415 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:29:06,451 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:29:06,452 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:29:54,452 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:29:54,452 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:30:42,489 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:30:42,490 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:31:30,492 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:31:30,493 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:32:18,524 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:32:18,524 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:33:06,527 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:33:06,528 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:33:54,562 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:33:54,562 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:34:42,558 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:34:42,559 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:35:34,791 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:35:34,791 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:36:22,802 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:36:22,802 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:37:10,842 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:37:10,843 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:37:58,836 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:37:58,836 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:38:46,870 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:38:46,871 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:39:34,883 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:39:34,884 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:40:22,909 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:40:22,909 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:41:10,940 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:41:10,940 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:41:58,986 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:41:58,987 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:42:46,998 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:42:46,998 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:43:35,043 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:43:35,044 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:44:23,054 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:44:23,054 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:45:11,091 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:45:11,091 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:45:59,104 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:45:59,104 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:46:47,141 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:46:47,142 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:47:35,153 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:47:35,153 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:48:23,185 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:48:23,185 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:49:11,207 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:49:11,208 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:49:59,261 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:49:59,262 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:50:47,273 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:50:47,274 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:51:35,316 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:51:35,317 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:52:23,325 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:52:23,326 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:53:11,382 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:53:11,383 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:53:59,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:53:59,388 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:54:47,432 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:54:47,432 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:55:35,444 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:55:35,444 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:56:23,470 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:56:23,470 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:57:11,476 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:57:11,477 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:57:59,516 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:57:59,516 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:58:47,533 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:58:47,536 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 14:59:35,577 INFO  [ReglerLogger] info    registriert.
+2017-04-21 14:59:35,577 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:00:01,381 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":14,"pressure":1023,"humidity":58,"temp_min":14,"temp_max":14},"visibility":10000,"wind":{"speed":7.2,"deg":280},"clouds":{"all":75},"dt":1492777200,"sys":{"type":1,"id":4892,"message":0.1698,"country":"DE","sunrise":1492746891,"sunset":1492798820},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 15:00:01,382 INFO  [ReglerLogger] wind: 7.2
+2017-04-21 15:00:23,586 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:00:23,586 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:01:11,633 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:01:11,634 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:01:59,640 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:01:59,640 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:02:47,677 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:02:47,677 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:03:35,694 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:03:35,694 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:04:23,722 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:04:23,723 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:05:11,726 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:05:11,726 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:05:59,764 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:05:59,766 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:06:47,779 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:06:47,779 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:07:35,813 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:07:35,813 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:08:23,825 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:08:23,825 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:09:11,853 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:09:11,854 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:09:59,862 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:09:59,863 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:10:47,895 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:10:47,895 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:11:35,900 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:11:35,901 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:12:23,941 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:12:23,941 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:13:11,949 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:13:11,949 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:14:00,000 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:14:00,001 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:14:48,006 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:14:48,006 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:15:36,051 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:15:36,052 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:16:24,062 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:16:24,062 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:17:12,102 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:17:12,102 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:18:00,121 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:18:00,121 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:18:48,157 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:18:48,157 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:19:36,156 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:19:36,157 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:20:24,195 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:20:24,195 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:21:12,215 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:21:12,215 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:22:00,255 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:22:00,256 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:22:48,276 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:22:48,276 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:23:36,317 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:23:36,318 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:24:24,329 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:24:24,330 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:25:12,377 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:25:12,378 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:26:00,391 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:26:00,392 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:26:48,436 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:26:48,437 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:27:36,446 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:27:36,446 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:28:24,483 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:28:24,484 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:29:12,486 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:29:12,486 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:30:00,529 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:30:00,530 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:30:48,536 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:30:48,536 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:31:36,576 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:31:36,577 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:32:24,598 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:32:24,598 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:33:12,633 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:33:12,634 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:34:00,644 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:34:00,644 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:34:48,689 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:34:48,689 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:35:36,707 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:35:36,707 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:36:24,747 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:36:24,747 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:37:12,765 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:37:12,766 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:38:00,811 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:38:00,812 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:38:48,838 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:38:48,838 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:39:36,874 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:39:36,875 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:40:24,894 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:40:24,894 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:41:12,932 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:41:12,932 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:42:00,954 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:42:00,954 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:42:49,008 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:42:49,008 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:43:37,016 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:43:37,016 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:44:25,058 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:44:25,059 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:45:13,068 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:45:13,068 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:46:01,097 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:46:01,098 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:46:49,104 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:46:49,104 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:47:37,141 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:47:37,141 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:48:25,152 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:48:25,152 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:49:13,186 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:49:13,186 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:50:01,204 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:50:01,204 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:50:49,248 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:50:49,248 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:51:37,257 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:51:37,258 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:52:25,325 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:52:25,325 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:53:13,333 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:53:13,334 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:54:01,375 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:54:01,376 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:54:49,384 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:54:49,385 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:55:37,418 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:55:37,418 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:56:25,440 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:56:25,440 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:57:13,475 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:57:13,476 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:58:01,482 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:58:01,482 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:58:49,518 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:58:49,519 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 15:59:37,539 INFO  [ReglerLogger] info    registriert.
+2017-04-21 15:59:37,540 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:00:00,600 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04d"}],"base":"stations","main":{"temp":14,"pressure":1022,"humidity":54,"temp_min":14,"temp_max":14},"visibility":10000,"wind":{"speed":7.7,"deg":270},"clouds":{"all":75},"dt":1492780800,"sys":{"type":1,"id":4892,"message":0.0929,"country":"DE","sunrise":1492746885,"sunset":1492798825},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 16:00:00,602 INFO  [ReglerLogger] wind: 7.7
+2017-04-21 16:00:25,573 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:00:25,573 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:01:13,587 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:01:13,588 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:02:01,639 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:02:01,639 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:02:49,649 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:02:49,649 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:03:37,700 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:03:37,701 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:04:25,720 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:04:25,720 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:05:13,758 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:05:13,758 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:06:01,796 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:06:01,796 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:06:49,842 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:06:49,842 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:07:37,857 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:07:37,857 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:08:25,912 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:08:25,912 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:09:13,934 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:09:13,934 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:10:01,971 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:10:01,972 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:10:49,996 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:10:49,997 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:11:38,099 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:11:38,100 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:12:26,121 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:12:26,121 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:13:14,160 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:13:14,160 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:14:02,169 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:14:02,170 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:14:50,209 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:14:50,209 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:15:38,215 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:15:38,215 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:16:26,243 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:16:26,243 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:17:14,241 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:17:14,242 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:18:02,268 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:18:02,269 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:18:50,275 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:18:50,275 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:19:38,317 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:19:38,317 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:20:26,323 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:20:26,323 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:21:14,366 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:21:14,366 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:22:02,368 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:22:02,369 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:22:50,411 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:22:50,411 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:23:38,424 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:23:38,425 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:24:26,415 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:24:26,416 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:25:14,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:25:14,388 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:26:02,407 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:26:02,407 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:26:50,365 INFO  [ReglerLogger] info    registriert.
+2017-04-21 16:26:50,397 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 16:27:07,043 INFO  [ReglerLogger] ReglerStart.ENDE
+2017-04-21 16:27:07,043 INFO  [ReglerLogger] Hook is working.............................................................
+2017-04-21 16:27:09,053 INFO  [ReglerLogger] Hook says byebye
+2017-04-21 20:37:22,237 INFO  [ReglerLogger] ReglerStart.START
+2017-04-21 20:37:22,300 INFO  [ReglerLogger] info    waiting for Compass
+2017-04-21 20:37:22,300 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:37:22,643 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":500,"main":"Rain","description":"leichter Regen","icon":"10d"}],"base":"stations","main":{"temp":12,"pressure":1019,"humidity":66,"temp_min":12,"temp_max":12},"visibility":10000,"wind":{"speed":7.7,"deg":280,"gust":14.4},"clouds":{"all":75},"dt":1492797000,"sys":{"type":1,"id":4892,"message":0.0489,"country":"DE","sunrise":1492746860,"sunset":1492798846},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 20:37:22,643 INFO  [ReglerLogger] wind: 7.7
+2017-04-21 20:38:10,850 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:38:10,850 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:38:58,967 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:38:58,967 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:39:46,997 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:39:46,997 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:40:35,031 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:40:35,031 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:41:23,131 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:41:23,131 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:42:11,174 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:42:11,174 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:42:59,238 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:42:59,238 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:43:47,318 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:43:47,318 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:44:35,343 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:44:35,343 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:45:23,372 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:45:23,372 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:46:11,457 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:46:11,457 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:46:59,501 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:46:59,501 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:47:47,550 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:47:47,550 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:48:35,632 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:48:35,632 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:49:23,650 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:49:23,650 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:50:11,684 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:50:11,684 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:50:59,707 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:50:59,707 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:51:47,746 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:51:47,746 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:52:35,760 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:52:35,760 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:53:23,804 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:53:23,804 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:54:11,863 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:54:11,863 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:54:59,909 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:54:59,909 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:55:47,986 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:55:47,986 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:56:36,061 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:56:36,061 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:57:24,128 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:57:24,128 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:58:12,178 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:58:12,178 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:59:00,255 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:59:00,255 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 20:59:48,327 INFO  [ReglerLogger] info    registriert.
+2017-04-21 20:59:48,327 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:00:00,955 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":500,"main":"Rain","description":"leichter Regen","icon":"10n"}],"base":"stations","main":{"temp":10,"pressure":1019,"humidity":87,"temp_min":10,"temp_max":10},"visibility":9000,"wind":{"speed":6.2,"deg":280},"clouds":{"all":75},"dt":1492798800,"sys":{"type":1,"id":4892,"message":0.0639,"country":"DE","sunrise":1492746858,"sunset":1492798847},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 21:00:00,965 INFO  [ReglerLogger] wind: 6.2
+2017-04-21 21:00:36,373 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:00:36,373 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:01:24,469 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:01:24,469 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:02:12,535 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:02:12,535 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:03:00,585 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:03:00,585 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:03:48,628 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:03:48,628 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:04:36,688 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:04:36,688 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:05:24,742 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:05:24,742 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:06:12,798 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:06:12,798 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:07:00,839 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:07:00,839 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:07:48,914 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:07:48,914 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:08:36,977 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:08:36,977 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:09:25,053 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:09:25,053 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:10:13,087 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:10:13,087 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:11:01,113 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:11:01,113 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:11:49,133 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:11:49,133 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:12:37,189 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:12:37,189 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:13:25,224 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:13:25,224 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:14:13,256 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:14:13,256 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:15:01,279 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:15:01,279 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:15:49,291 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:15:49,291 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:16:37,321 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:16:37,321 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:17:25,366 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:17:25,366 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:18:13,395 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:18:13,395 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:19:01,445 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:19:01,445 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:19:49,489 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:19:49,489 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:20:37,530 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:20:37,530 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:21:25,586 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:21:25,586 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:22:13,650 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:22:13,650 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:23:01,700 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:23:01,700 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:23:49,734 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:23:49,734 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:24:37,781 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:24:37,781 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:25:25,821 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:25:25,821 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:26:13,868 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:26:13,868 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:27:01,928 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:27:01,928 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:27:49,985 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:27:49,985 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:28:38,031 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:28:38,031 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:29:26,115 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:29:26,115 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:30:14,162 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:30:14,162 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:31:02,212 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:31:02,212 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:31:50,304 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:31:50,304 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:32:38,338 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:32:38,338 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:33:26,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:33:26,387 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:34:14,427 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:34:14,427 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:35:02,513 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:35:02,513 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:35:50,568 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:35:50,568 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:36:38,610 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:36:38,610 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:37:26,684 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:37:26,684 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:38:14,730 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:38:14,730 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:39:02,762 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:39:02,762 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:39:50,792 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:39:50,792 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:40:38,867 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:40:38,867 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:41:26,917 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:41:26,917 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:42:14,997 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:42:14,997 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:43:03,037 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:43:03,037 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:43:51,077 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:43:51,077 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:44:39,161 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:44:39,161 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:45:27,199 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:45:27,199 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:46:15,249 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:46:15,249 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:47:03,303 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:47:03,303 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:47:51,343 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:47:51,343 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:48:39,380 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:48:39,380 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:49:27,434 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:49:27,434 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:50:15,497 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:50:15,497 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:51:03,529 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:51:03,529 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:51:51,555 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:51:51,565 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:52:39,615 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:52:39,615 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:53:27,639 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:53:27,639 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:54:15,659 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:54:15,659 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:55:03,729 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:55:03,729 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:55:51,752 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:55:51,752 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:56:39,769 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:56:39,769 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:57:27,875 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:57:27,875 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:58:15,917 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:58:15,917 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:59:03,982 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:59:03,982 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 21:59:52,052 INFO  [ReglerLogger] info    registriert.
+2017-04-21 21:59:52,052 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:00:00,608 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04n"}],"base":"stations","main":{"temp":10,"pressure":1018,"humidity":87,"temp_min":10,"temp_max":10},"visibility":8000,"wind":{"speed":6.7,"deg":260},"clouds":{"all":75},"dt":1492802400,"sys":{"type":1,"id":4892,"message":2.9898,"country":"DE","sunrise":1492746853,"sunset":1492798852},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 22:00:00,608 INFO  [ReglerLogger] wind: 6.7
+2017-04-21 22:00:40,088 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:00:40,088 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:01:28,142 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:01:28,142 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:02:16,252 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:02:16,252 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:03:04,286 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:03:04,286 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:03:52,348 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:03:52,348 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:04:40,462 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:04:40,462 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:05:28,496 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:05:28,496 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:06:16,556 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:06:16,556 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:07:04,608 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:07:04,608 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:07:52,642 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:07:52,642 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:08:40,712 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:08:40,712 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:09:28,803 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:09:28,803 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:10:16,863 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:10:16,863 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:11:04,933 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:11:04,933 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:11:52,998 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:11:52,998 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:12:41,056 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:12:41,056 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:13:29,086 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:13:29,086 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:14:17,140 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:14:17,140 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:15:05,160 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:15:05,160 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:15:53,199 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:15:53,199 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:16:41,253 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:16:41,253 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:17:29,273 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:17:29,273 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:18:17,297 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:18:17,297 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:19:05,343 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:19:05,343 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:19:53,424 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:19:53,424 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:20:41,458 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:20:41,458 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:21:29,541 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:21:29,541 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:22:17,620 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:22:17,620 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:23:05,654 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:23:05,654 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:23:53,688 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:23:53,688 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:24:41,734 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:24:41,734 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:25:29,808 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:25:29,808 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:26:17,872 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:26:17,873 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:27:05,913 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:27:05,913 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:27:53,991 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:27:53,991 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:28:42,021 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:28:42,021 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:29:30,075 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:29:30,075 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:30:18,140 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:30:18,140 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:31:06,183 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:31:06,183 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:31:54,229 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:31:54,229 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:32:42,313 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:32:42,313 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:33:30,343 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:33:30,343 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:34:18,410 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:34:18,410 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:35:06,502 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:35:06,502 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:35:54,526 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:35:54,526 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:36:42,589 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:36:42,589 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:37:30,655 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:37:30,655 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:38:18,764 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:38:18,764 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:39:06,863 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:39:06,863 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:39:54,971 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:39:54,971 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:40:43,076 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:40:43,076 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:41:31,224 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:41:31,224 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:42:19,367 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:42:19,367 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:43:07,435 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:43:07,435 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:43:55,515 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:43:55,515 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:44:43,651 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:44:43,651 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:45:31,711 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:45:31,711 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:46:19,783 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:46:19,783 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:47:07,909 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:47:07,909 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:47:55,973 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:47:55,973 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:48:44,033 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:48:44,033 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:49:32,101 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:49:32,101 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:50:20,144 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:50:20,144 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:51:08,184 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:51:08,184 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:51:56,245 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:51:56,245 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:52:44,274 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:52:44,274 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:53:32,312 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:53:32,312 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:54:20,387 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:54:20,387 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:55:08,419 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:55:08,419 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:55:56,446 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:55:56,446 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:56:44,540 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:56:44,540 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:57:32,559 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:57:32,559 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:58:20,615 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:58:20,615 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:59:08,704 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:59:08,704 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 22:59:56,750 INFO  [ReglerLogger] info    registriert.
+2017-04-21 22:59:56,750 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:00:00,924 INFO  [OpenWeatherLogger] {"coord":{"lon":12.89,"lat":53.09},"weather":[{"id":803,"main":"Clouds","description":"überwiegend bewölkt","icon":"04n"}],"base":"stations","main":{"temp":11,"pressure":1017,"humidity":81,"temp_min":11,"temp_max":11},"visibility":10000,"wind":{"speed":7.2,"deg":270},"clouds":{"all":75},"dt":1492806000,"sys":{"type":1,"id":4892,"message":0.0076,"country":"DE","sunrise":1492746847,"sunset":1492798856},"id":2847612,"name":"Rheinsberg","cod":200}
+2017-04-21 23:00:00,924 INFO  [ReglerLogger] wind: 7.2
+2017-04-21 23:00:44,803 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:00:44,803 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:01:32,920 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:01:32,920 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:02:20,995 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:02:20,995 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:03:09,051 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:03:09,051 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:03:57,143 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:03:57,143 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:04:45,184 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:04:45,184 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:05:33,238 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:05:33,238 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:06:21,314 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:06:21,314 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:07:09,391 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:07:09,391 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:07:57,452 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:07:57,452 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:08:45,546 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:08:45,546 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:09:33,617 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:09:33,617 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:10:21,645 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:10:21,645 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:11:09,719 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:11:09,719 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:11:57,779 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:11:57,779 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:12:45,823 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:12:45,823 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:13:33,901 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:13:33,901 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:14:21,925 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:14:21,925 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:15:09,947 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:15:09,947 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:15:58,018 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:15:58,018 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:16:46,049 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:16:46,049 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:17:34,111 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:17:34,111 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:18:22,135 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:18:22,135 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:19:10,193 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:19:10,193 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:19:58,218 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:19:58,218 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:20:46,252 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:20:46,252 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:21:34,293 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:21:34,293 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:22:22,370 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:22:22,370 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:23:10,385 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:23:10,385 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:23:58,429 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:23:58,429 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:24:46,469 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:24:46,469 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:25:34,515 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:25:34,515 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:26:22,559 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:26:22,559 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:27:10,633 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:27:10,633 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:27:58,683 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:27:58,683 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:28:46,725 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:28:46,725 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:29:34,814 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:29:34,814 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:30:22,848 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:30:22,848 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:31:10,896 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:31:10,896 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:31:58,966 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:31:58,966 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:32:47,031 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:32:47,031 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:33:35,081 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:33:35,081 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:34:23,117 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:34:23,117 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:35:11,153 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:35:11,153 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:35:59,228 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:35:59,228 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:36:47,265 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:36:47,265 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:37:35,347 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:37:35,347 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:38:23,393 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:38:23,393 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:39:11,420 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:39:11,420 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:39:59,504 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:39:59,504 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:40:47,544 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:40:47,544 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:41:35,574 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:41:35,574 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:42:23,647 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:42:23,647 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:43:11,698 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:43:11,698 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:43:59,739 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:43:59,739 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:44:47,843 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:44:47,843 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:45:35,870 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:45:35,870 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:46:23,899 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:46:23,899 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:47:11,964 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:47:11,964 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:47:59,999 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:47:59,999 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:48:48,040 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:48:48,040 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:49:36,139 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:49:36,139 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:50:24,176 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:50:24,176 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:51:12,246 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:51:12,246 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:52:00,352 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:52:00,352 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:52:48,388 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:52:48,388 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:53:36,453 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:53:36,453 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-04-21 23:54:24,525 INFO  [ReglerLogger] info    registriert.
+2017-04-21 23:54:24,525 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]

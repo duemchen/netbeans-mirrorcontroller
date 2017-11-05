@@ -1,0 +1,10 @@
+2017-09-24 10:21:17,662 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:45:17,892 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:45:41,346 INFO  [PositionsSpeicher] restart
+2017-09-24 10:45:46,347 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:46:26,723 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:46:30,134 INFO  [PositionsSpeicher] restart
+2017-09-24 10:46:35,134 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:46:42,907 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:47:19,621 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2017-09-24 10:48:47,207 ERROR [PositionsSpeicher] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]

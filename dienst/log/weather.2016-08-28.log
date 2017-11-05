@@ -1,0 +1,198 @@
+2016-08-28 09:17:41,052 INFO  [ReglerLogger] ReglerStart.START
+2016-08-28 09:17:41,056 INFO  [ReglerLogger] info    waiting for Compass
+2016-08-28 09:17:41,059 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2016-08-28 09:17:41,231 INFO  [OpenWeatherLogger] {"coord":{"lon":12.9,"lat":53.1},"weather":[{"id":800,"main":"Clear","description":"klarer Himmel","icon":"01d"}],"base":"stations","main":{"temp":21.59,"pressure":1014,"humidity":64,"temp_min":20.56,"temp_max":22.22},"visibility":10000,"wind":{"speed":3.1,"deg":120},"clouds":{"all":0},"dt":1472367823,"sys":{"type":1,"id":4892,"message":0.0336,"country":"DE","sunrise":1472357545,"sunset":1472407515},"id":2847612,"name":"Rheinsberg","cod":200}
+2016-08-28 09:17:41,239 INFO  [ReglerLogger] wind: 3.1
+2016-08-28 09:17:42,753 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":34,"pitch":-26}
+2016-08-28 09:17:42,808 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:17:42,986 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:17:43,800 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":21,"mirrorid":"2","pitch":-15}
+2016-08-28 09:17:43,813 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:17:43,887 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:17:48,694 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":35,"pitch":-27}
+2016-08-28 09:17:48,718 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:17:48,773 INFO  [ReglerLogger] sendCommand simago/joy:RECHTS
+2016-08-28 09:17:50,012 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":21,"mirrorid":"2","pitch":-16}
+2016-08-28 09:17:50,020 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:17:50,151 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RECHTS
+2016-08-28 09:17:51,241 INFO  [ReglerLogger] ReglerStart.ENDE
+2016-08-28 09:17:51,244 INFO  [ReglerLogger] Hook is working.............................................................
+2016-08-28 09:17:53,245 INFO  [ReglerLogger] Hook says byebye
+2016-08-28 09:17:57,995 INFO  [ReglerLogger] ReglerStart.START
+2016-08-28 09:17:57,998 INFO  [ReglerLogger] info    waiting for Compass
+2016-08-28 09:17:58,001 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2016-08-28 09:17:58,168 INFO  [OpenWeatherLogger] {"coord":{"lon":12.9,"lat":53.1},"weather":[{"id":800,"main":"Clear","description":"klarer Himmel","icon":"01d"}],"base":"stations","main":{"temp":21.59,"pressure":1014,"humidity":64,"temp_min":20.56,"temp_max":22.22},"visibility":10000,"wind":{"speed":3.1,"deg":120},"clouds":{"all":0},"dt":1472367823,"sys":{"type":1,"id":4892,"message":0.0336,"country":"DE","sunrise":1472357545,"sunset":1472407515},"id":2847612,"name":"Rheinsberg","cod":200}
+2016-08-28 09:17:58,176 INFO  [ReglerLogger] wind: 3.1
+2016-08-28 09:18:00,098 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":20,"mirrorid":"2","pitch":-16}
+2016-08-28 09:18:00,127 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:00,278 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:18:00,919 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":33,"pitch":-27}
+2016-08-28 09:18:00,966 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:01,025 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:06,141 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":20,"mirrorid":"2","pitch":-17}
+2016-08-28 09:18:06,151 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:06,276 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RECHTS
+2016-08-28 09:18:07,029 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":33,"pitch":-28}
+2016-08-28 09:18:07,070 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:07,136 INFO  [ReglerLogger] sendCommand simago/joy:RECHTS
+2016-08-28 09:18:12,203 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":18,"mirrorid":"2","pitch":-18}
+2016-08-28 09:18:12,211 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:12,342 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:18:13,139 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":32,"pitch":-28}
+2016-08-28 09:18:13,162 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:13,331 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:15,178 INFO  [ReglerLogger] ReglerStart.ENDE
+2016-08-28 09:18:15,181 INFO  [ReglerLogger] Hook is working.............................................................
+2016-08-28 09:18:17,182 INFO  [ReglerLogger] Hook says byebye
+2016-08-28 09:18:19,468 INFO  [ReglerLogger] ReglerStart.START
+2016-08-28 09:18:19,472 INFO  [ReglerLogger] info    waiting for Compass
+2016-08-28 09:18:19,475 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2016-08-28 09:18:19,648 INFO  [OpenWeatherLogger] {"coord":{"lon":12.9,"lat":53.1},"weather":[{"id":800,"main":"Clear","description":"klarer Himmel","icon":"01d"}],"base":"stations","main":{"temp":21.59,"pressure":1014,"humidity":64,"temp_min":20.56,"temp_max":22.22},"visibility":10000,"wind":{"speed":3.1,"deg":120},"clouds":{"all":0},"dt":1472367823,"sys":{"type":1,"id":4892,"message":0.0336,"country":"DE","sunrise":1472357545,"sunset":1472407515},"id":2847612,"name":"Rheinsberg","cod":200}
+2016-08-28 09:18:19,656 INFO  [ReglerLogger] wind: 3.1
+2016-08-28 09:18:21,288 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":32,"pitch":-29}
+2016-08-28 09:18:21,336 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:21,494 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:22,281 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":19,"mirrorid":"2","pitch":-19}
+2016-08-28 09:18:22,306 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:22,436 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:18:27,388 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":33,"pitch":-30}
+2016-08-28 09:18:27,401 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:27,521 INFO  [ReglerLogger] sendCommand simago/joy:RECHTS
+2016-08-28 09:18:28,329 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":19,"mirrorid":"2","pitch":-20}
+2016-08-28 09:18:28,336 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:28,459 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RECHTS
+2016-08-28 09:18:33,510 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-30}
+2016-08-28 09:18:33,531 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:33,644 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:34,372 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":18,"mirrorid":"2","pitch":-20}
+2016-08-28 09:18:34,377 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:34,490 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:18:39,669 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-30}
+2016-08-28 09:18:39,682 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:39,808 INFO  [ReglerLogger] sendCommand simago/joy:RECHTS
+2016-08-28 09:18:40,421 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":18,"mirrorid":"2","pitch":-21}
+2016-08-28 09:18:40,429 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:40,589 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RECHTS
+2016-08-28 09:18:45,779 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":30,"pitch":-30}
+2016-08-28 09:18:45,794 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:45,907 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:46,468 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":16,"mirrorid":"2","pitch":-22}
+2016-08-28 09:18:46,472 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:46,595 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:18:52,088 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":30,"pitch":-31}
+2016-08-28 09:18:52,101 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:52,213 INFO  [ReglerLogger] sendCommand simago/joy:RECHTS
+2016-08-28 09:18:52,515 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":17,"mirrorid":"2","pitch":-23}
+2016-08-28 09:18:52,518 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:52,686 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RECHTS
+2016-08-28 09:18:58,191 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":29,"pitch":-31}
+2016-08-28 09:18:58,200 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:58,337 INFO  [ReglerLogger] sendCommand simago/joy:HOCH
+2016-08-28 09:18:58,559 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":15,"mirrorid":"2","pitch":-23}
+2016-08-28 09:18:58,563 INFO  [ReglerLogger] Regler ist deaktiviert. Datei nicht gefunden: activ.txt
+2016-08-28 09:18:58,599 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:HOCH
+2016-08-28 09:19:04,300 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":29,"pitch":-33}
+2016-08-28 09:19:04,443 INFO  [ReglerLogger] sendCommand simago/joy:LINKS
+2016-08-28 09:19:04,599 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":15,"mirrorid":"2","pitch":-24}
+2016-08-28 09:19:04,658 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:LINKS
+2016-08-28 09:19:10,411 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-33}
+2016-08-28 09:19:10,543 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:19:10,644 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-22,"dir":17,"mirrorid":"2","pitch":-24}
+2016-08-28 09:19:10,686 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:19:16,520 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":30,"pitch":-33}
+2016-08-28 09:19:16,642 INFO  [ReglerLogger] sendCommand simago/joy:LINKS
+2016-08-28 09:19:16,690 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":17,"mirrorid":"2","pitch":-23}
+2016-08-28 09:19:16,732 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:LINKS
+2016-08-28 09:19:22,626 INFO  [ReglerLogger] simago/compass    {"roll":-13,"dir":32,"pitch":-32}
+2016-08-28 09:19:22,762 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:19:22,769 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-22,"dir":18,"mirrorid":"2","pitch":-22}
+2016-08-28 09:19:22,817 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:19:28,731 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":32,"pitch":-31}
+2016-08-28 09:19:28,733 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:19:28,779 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":18,"mirrorid":"2","pitch":-21}
+2016-08-28 09:19:28,781 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:19:34,832 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-21,"dir":18,"mirrorid":"2","pitch":-21}
+2016-08-28 09:19:35,006 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:19:35,012 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":32,"pitch":-31}
+2016-08-28 09:19:35,060 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:19:40,880 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":18,"mirrorid":"2","pitch":-20}
+2016-08-28 09:19:40,883 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:19:40,959 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-30}
+2016-08-28 09:19:40,961 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:19:46,932 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":18,"mirrorid":"2","pitch":-20}
+2016-08-28 09:19:47,060 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:19:47,066 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":32,"pitch":-30}
+2016-08-28 09:19:47,114 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:19:52,979 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":17,"mirrorid":"2","pitch":-19}
+2016-08-28 09:19:53,108 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:LINKS
+2016-08-28 09:19:53,167 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-30}
+2016-08-28 09:19:53,169 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:19:59,031 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-20,"dir":19,"mirrorid":"2","pitch":-18}
+2016-08-28 09:19:59,161 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:19:59,279 INFO  [ReglerLogger] simago/compass    {"roll":-12,"dir":31,"pitch":-29}
+2016-08-28 09:19:59,477 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:20:05,079 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":18,"mirrorid":"2","pitch":-17}
+2016-08-28 09:20:05,081 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:05,413 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-29}
+2016-08-28 09:20:05,418 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:11,120 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":18,"mirrorid":"2","pitch":-17}
+2016-08-28 09:20:11,247 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:RUNTER
+2016-08-28 09:20:11,528 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-29}
+2016-08-28 09:20:11,725 INFO  [ReglerLogger] sendCommand simago/joy:RUNTER
+2016-08-28 09:20:17,165 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-18,"dir":17,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:17,280 INFO  [ReglerLogger] sendCommand simago/joy/74-DA-38-3E-E8-3C:LINKS
+2016-08-28 09:20:17,786 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:20:17,790 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:23,211 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:23,213 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:20:23,893 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:20:23,897 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:20:29,260 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:29,263 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:30,187 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:20:30,192 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:35,303 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-18,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:35,305 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:20:36,299 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:20:36,304 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:20:41,348 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:41,351 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:42,426 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:20:42,430 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:20:45,678 INFO  [ReglerLogger] ReglerStart.ENDE
+2016-08-28 09:20:45,684 INFO  [ReglerLogger] Hook is working.............................................................
+2016-08-28 09:20:47,398 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:20:47,401 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:20:47,684 INFO  [ReglerLogger] Hook says byebye
+2016-08-28 09:27:45,989 INFO  [ReglerLogger] ReglerStart.START
+2016-08-28 09:27:45,989 INFO  [ReglerLogger] info    waiting for Compass
+2016-08-28 09:27:45,989 ERROR [ReglerLogger] setPosition: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2016-08-28 09:27:46,169 INFO  [OpenWeatherLogger] {"coord":{"lon":12.9,"lat":53.1},"weather":[{"id":800,"main":"Clear","description":"klarer Himmel","icon":"01d"}],"base":"stations","main":{"temp":21.59,"pressure":1014,"humidity":64,"temp_min":20.56,"temp_max":22.22},"visibility":10000,"wind":{"speed":3.1,"deg":120},"clouds":{"all":0},"dt":1472367823,"sys":{"type":1,"id":4892,"message":0.0336,"country":"DE","sunrise":1472357545,"sunset":1472407515},"id":2847612,"name":"Rheinsberg","cod":200}
+2016-08-28 09:27:46,179 INFO  [ReglerLogger] wind: 3.1
+2016-08-28 09:27:48,699 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-18,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:27:48,709 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:27:48,819 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:27:48,869 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:27:54,739 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:27:54,759 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:27:54,919 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:27:54,949 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:28:00,779 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:28:00,799 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:28:01,019 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:28:01,039 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:28:06,829 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:28:06,829 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:28:07,129 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:28:07,139 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:28:12,869 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:28:12,869 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:28:13,239 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:28:13,259 INFO  [ReglerLogger] Höhe ok
+2016-08-28 09:28:18,919 INFO  [ReglerLogger] simago/compass/74-DA-38-3E-E8-3C    {"roll":-19,"dir":19,"mirrorid":"2","pitch":-15}
+2016-08-28 09:28:18,919 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:28:19,349 INFO  [ReglerLogger] simago/compass    {"roll":-11,"dir":31,"pitch":-28}
+2016-08-28 09:28:19,379 INFO  [ReglerLogger] Dir  ok
+2016-08-28 09:28:21,179 INFO  [ReglerLogger] ReglerStart.ENDE
+2016-08-28 09:28:21,179 INFO  [ReglerLogger] Hook is working.............................................................
+2016-08-28 09:28:23,179 INFO  [ReglerLogger] Hook says byebye

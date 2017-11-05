@@ -1,0 +1,10 @@
+{"position":{"roll":-9,"mirrorid":"2","pitch":-22,"dir":349},"time":"20.08.2016 12:34:16","target":2}
+{"position":{"roll":-7,"mirrorid":"2","pitch":-23,"dir":343},"time":"20.08.2016 13:13:16","target":2}
+{"position":{"roll":0,"mirrorid":"2","pitch":-22,"dir":327},"time":"20.08.2016 15:11:30","target":2}
+{"position":{"roll":2,"mirrorid":"2","pitch":-19,"dir":322},"time":"20.08.2016 16:04:50","target":2}
+{"position":{"roll":-20,"mirrorid":"2","pitch":-15,"dir":23},"time":"21.08.2016 08:52:23","target":2}
+{"position":{"roll":-18,"mirrorid":"2","pitch":-17,"dir":14},"time":"21.08.2016 09:53:06","target":2}
+{"position":{"roll":-11,"mirrorid":"2","pitch":-23,"dir":354},"time":"21.08.2016 11:57:59","target":2}
+
+{"position":{"roll":27,"mirrorid":"2","pitch":-25,"dir":308},"time":"20.08.2016 17:30:00","target":2}
+
